@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 | Sfondo| Nodo | Nodo| 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/prev.png" alt="Icona" width="90%"/> |
+| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/prev.png" alt="Icona" height="90%"/> |
