@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Sfondo| Nodo | Arco |
-| ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/preview.png" alt="Icona" width="20%" />|
+| Sfondo| Nodo | 
+| ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/preview.gif" alt="Icona" width="100%"/> |
