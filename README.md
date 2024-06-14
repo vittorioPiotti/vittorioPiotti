@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 | Sfondo| Nodo | Arco |
 | ------------ | ------------ | ------------ |
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/preview.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickarco.gif" alt="Icona" width="100%"/>|
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
