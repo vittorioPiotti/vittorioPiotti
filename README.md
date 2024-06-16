@@ -3,7 +3,6 @@
 ### Skills
 
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/bootstrap.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/c.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/css.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/dev.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/figma.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/html.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/js.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/php.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/py.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/react.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/sql.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/ts.png" width="50"> |
-
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 
 
