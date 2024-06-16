@@ -20,3 +20,8 @@
 - [Gestione Hotels Sito]()
 - [Gestionale]()
 
+### Algoritmi
+
+- [Battaglia Navale]()
+- [Calcolatrice Matriciale]()
+- [GPseudocodifica Dijkstra]()
