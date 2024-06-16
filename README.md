@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm developer 🧑🏻‍💻
+I'm freelance 🧑🏻‍💻
 
 
 ### Migliori Progetti ⭐
