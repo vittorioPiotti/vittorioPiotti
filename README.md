@@ -2,7 +2,7 @@
 
 ### Giochi Online
 
-|   <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/preview.gif" width="100%" />  | <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/preview.png" height="200"/>| 
+|   [FilaTre Online]() | [Bingo Online]| 
 |  ------------ | ------------ | 
 
 ### Giochi Offline
