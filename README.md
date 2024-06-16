@@ -2,6 +2,10 @@
 
 ### Skills
 
+| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/bootstrap.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/c.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/css.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/figma.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/html.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/js.png" width="50"> |
+|-------------|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/php.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/py.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/react-native.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/images/sql.png" width="50"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti
+
 
 ### Repository
 
