@@ -7,7 +7,7 @@ I'm developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" width="300"/>| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/prev.png" alt="Icona" width="300"/>|<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>|
 |-------------|-------------|-------------|
-
+|[Dijkstra Bootstrap]()|[Gestione Hotels App]()|[Primary Flight Display]()|
 
 ### Skills 🎓
 
