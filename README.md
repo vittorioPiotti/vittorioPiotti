@@ -2,10 +2,12 @@
 
 ### Giochi Online
 
-|   [FilaTre Online]() | [Bingo Online]| 
-|  ------------ | ------------ | 
-
+- [FilaTre Online]()
+- [Bingo Online]()
+  
 ### Giochi Offline
+
+- [Bingo Offline]()
 
 ### Software didattici
 
