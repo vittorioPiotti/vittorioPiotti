@@ -1,13 +1,13 @@
-## Hi there 👋
+## Hi there 🧑🏻‍💻
 
-### Skills
+### Skills 🎓
 
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/bootstrap.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/c.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/css.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/figma.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/html.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/js.png" width="70"> |
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/php.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/py.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/react.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/sql.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/ts.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/xcode.png" width="70"> |
 
 
-### Repository
+### Repository 💡
 
 | Giochi Online                                                                                      | Giochi Offline                                                                            | Software didattici                                                                       | App                                                                                              | Siti Web                                                                                          | Algoritmi                                                                                     |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
