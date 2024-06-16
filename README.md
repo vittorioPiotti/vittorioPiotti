@@ -11,5 +11,8 @@
 
 ### Software didattici
 
+- [Dijkstra Solver]()
+- [Primary Flight Display]()
+
 ### Siti Web e App
 
