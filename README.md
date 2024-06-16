@@ -2,6 +2,8 @@
 
 ### Skills
 
+| ![bootstrap](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/bootstrap.png) | ![c](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/c.png) | ![css](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/css.png) | ![dev](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/dev.png) | ![figma](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/figma.png) | ![html](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/html.png) |
+| ![js](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/js.png) | ![php](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/php.png) | ![py](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/py.png) | ![react](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/react.png) | ![sql](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/sql.png) | ![ts](https://github.com/vittorioPiotti/vittorioPiotti/blob/main/img/ts.png) |
 
 
 ### Repository
