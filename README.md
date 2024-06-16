@@ -5,7 +5,7 @@ I'm developer 🧑🏻‍💻
 
 ### Migliori Progetti ⭐
 
-|<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/prev.png" alt="Icona" />|<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" />|
+|<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/prev.png" alt="Icona" width="200"/>|<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>|
 |-------------|-------------|-------------|
 
 
