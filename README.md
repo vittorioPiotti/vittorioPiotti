@@ -64,7 +64,7 @@ I'm freelance developer 🧑🏻‍💻
 
 ### Giochi Offline
 
-|<https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview.png"/>| 
+|<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview.png"/>| 
 |-------------|
 |[Bingo Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap)|
 
