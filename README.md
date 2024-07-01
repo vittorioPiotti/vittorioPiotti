@@ -29,7 +29,7 @@ I'm freelance developer 🧑🏻‍💻
 
 ### Software Didattici 
 
-|<img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
+|<img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/socialpreview.png"/>|
 |-------------|-------------|
 |[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
 
