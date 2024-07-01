@@ -56,21 +56,21 @@ I'm freelance developer 🧑🏻‍💻
 
 ### Giochi Online
 
-|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|
+|<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview.png"/>|
 |-------------|-------------|
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|
+|[Fiila Tre Online](https://github.com/vittorioPiotti/FilaTre-Online)|[Bingo Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap)|
 
 
 
 ### Giochi Offline
 
-|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| 
+|<https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview.png"/>| 
 |-------------|
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|
+|[Bingo Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap)|
 
 ### Algoritmi
 
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
+|[Dijkstra C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)|[Matrix Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C)|[Battalia Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C)|
 |-------------|-------------|-------------|
 
 
