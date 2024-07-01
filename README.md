@@ -42,9 +42,9 @@ I'm freelance developer 🧑🏻‍💻
 
 ### App
 
-|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
+|<img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/socialpreview.png"/>|<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/socialpreview.png"/>|
 |-------------|-------------|-------------|
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
+| [Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Calendario](https://github.com/vittorioPiotti/Calendario-React-Native) |[Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)|
 
 
 ### Siti Web
