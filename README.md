@@ -49,9 +49,9 @@ I'm freelance developer 🧑🏻‍💻
 
 ### Siti Web
 
-|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
+|<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview.png"/>|<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview.png"/>|
 |-------------|-------------|-------------|
-| [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|
+| [Gestione Hotels Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP) |[Gestionale]()|[Portolio](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|
 
 
 ### Giochi Online
