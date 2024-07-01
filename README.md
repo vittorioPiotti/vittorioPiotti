@@ -29,15 +29,15 @@ I'm freelance developer 🧑🏻‍💻
 
 ### Software Didattici 
 
-|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|
+|<img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|
+|[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
 
 ### Siti Didattici 
 
-|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|
+|<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/>|
 |-------------|-------------|
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|
+| [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|
 
 
 ### App
@@ -51,7 +51,7 @@ I'm freelance developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|-------------|
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
+| [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|
 
 
 ### Giochi Online
