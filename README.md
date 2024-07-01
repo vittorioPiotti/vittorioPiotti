@@ -35,9 +35,9 @@ I'm freelance developer 🧑🏻‍💻
 
 ### Siti Didattici 
 
-|<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/>|
+| <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
 |-------------|-------------|
-| [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|
+| [Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
 
 
 ### App
