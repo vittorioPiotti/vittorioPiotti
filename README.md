@@ -72,8 +72,6 @@ I'm freelance developer 🧑🏻‍💻
 
 |[Dijkstra C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)|[Matrix Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C)|[Battalia Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C)|
 |-------------|-------------|-------------|
-|Pseudocodifica in C dell'algoritmo di Dijkstra con calcolo di tutti i valori minimi e archi direzionabili|Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici ed anche algoritmo di Laplace e calcolo della matrice inversa|Gioco di Battaglia Navale sviluppato in C che permette di giocare in locale con un amico oppure in solitaria ed è anche possibile simulare una partita bot contro bot vedendo subito i risultati|
-
 
 
 
