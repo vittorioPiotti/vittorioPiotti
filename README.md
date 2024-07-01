@@ -27,20 +27,20 @@ I'm freelance developer 🧑🏻‍💻
 
 ---
 
-## Software Didattici 
+### Software Didattici 
 
 |<img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|
 |[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
 
-## Siti Didattici 
+### Siti Didattici 
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
 |-------------|-------------|
 | [Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
 
 
-## App
+### App
 
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/socialpreview.png"/>|<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/socialpreview.png"/>|
 |-------------|-------------|-------------|
