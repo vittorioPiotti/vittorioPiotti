@@ -12,6 +12,12 @@ I'm open source developer 🧑🏻‍💻
 |-------------|-------------|-------------|
 |[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
 
+|Gestione Hotels|Music Player|
+|-------------|-------------|
+|[GH App](https://github.com/vittorioPiotti/Gestione-Hotels-App)|[MP App](https://github.com/vittorioPiotti/Music-Player-App)|
+|[GH Web](https://github.com/vittorioPiotti/Gestione-Hotels-Web)|[MP Web](https://github.com/vittorioPiotti/Music-Player-Web)|
+|[GH Server](https://github.com/vittorioPiotti/Gestione-Hotels-Server)|[MP Server](https://github.com/vittorioPiotti/Music-Player-Server)|
+
 ### Skills 🎓
 
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/bootstrap.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/c.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/css.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/figma.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/html.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/js.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/csh.png" width="70"> |
