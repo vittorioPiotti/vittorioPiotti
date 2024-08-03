@@ -3,7 +3,7 @@
 I'm open source developer 🧑🏻‍💻
 
 
-### Migliori Progetti ⭐
+### Migliori Repository ⭐
 
 |<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|-------------|
@@ -16,13 +16,18 @@ I'm open source developer 🧑🏻‍💻
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/php.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/py.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/react.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/sql.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/ts.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/xcode.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/java.png" width="70"> | 
 
 
-### Progetti 💡
+### Repository 🛠️ 
 
 | [Giochi Online](#giochi-online)                                                                                     | [Giochi Offline](#giochi-offline)                                                                              | [Siti Didattici](#siti-didattici)                                                                                | [Software Didattici](#software-didattici)                                                                       | [App](#app)                                                                                              | [Siti Web](#siti-web)                                                                                         | [Algoritmi](#algoritmi)                                                                                     |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [FilaTre](https://github.com/vittorioPiotti/FilaTre-Online)                                        | [Bingo Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap)                                 | [Dijkstra Web](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)                    | [PFD](https://github.com/vittorioPiotti/Primary-Flight-Display)                              | [Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)                      | [Gestione Hotels Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP)                      | [Battaglia Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C)                     |
 | [Bingo Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap)                                  |                                                                                            | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap)                      | [Subnetting Java](https://github.com/vittorioPiotti/Subnet-Solver-Java)                       | [Calendario](https://github.com/vittorioPiotti/Calendario-React-Native)                         | [Gestionale](https://github.com/vittorioPiotti/Gestionale)                                        | [Matrix Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C)                      |
 |                                                                                                    |                                                                                            |                                                                                          |                                                                                                  | [Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)                     | [Portfolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)                                | [Dijkstra C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)                               |
+
+
+### Projects 🚀
+
+...
 
 
 ---
