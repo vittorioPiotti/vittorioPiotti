@@ -4,13 +4,7 @@ I'm open source developer 🧑🏻‍💻
 
 ### Projects On Fire 🔥
 
-|Gestione Hotels|Music Player|
-|-------------|-------------|
-|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/GH_Project.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/GH_Project.png"/>|
-|[GH App](https://github.com/vittorioPiotti/Gestione-Hotels-App)|[MP Web](https://github.com/vittorioPiotti/Music-Player-Web)|
-|[GH Web](https://github.com/vittorioPiotti/Gestione-Hotels-Web)|[MP Server](https://github.com/vittorioPiotti/Music-Player-Server)|
-|[GH Server](https://github.com/vittorioPiotti/Gestione-Hotels-Server)||
-
+...
 
 ### Best Repositories ⭐
 
