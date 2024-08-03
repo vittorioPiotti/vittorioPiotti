@@ -32,48 +32,47 @@ I'm open source developer 🧑🏻‍💻
 
 ---
 
-### Software Didattici 
+### Softwares  
 
 |<img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/socialpreview.png"/>|
 |-------------|-------------|
 |[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
 
-### Siti Didattici 
+### Scholar Sites
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
 |-------------|-------------|
 | [Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
 
 
-### App
+### Apps
 
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/socialpreview.png"/>|<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/socialpreview.png"/>|
 |-------------|-------------|-------------|
 | [Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Calendario](https://github.com/vittorioPiotti/Calendario-React-Native) |[Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)|
 
 
-### Siti Web
+### Web Sites
 
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview.png"/>|<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview.png"/>|
 |-------------|-------------|-------------|
 | [Gestione Hotels Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP) |[Gestionale]()|[Portolio](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|
 
 
-### Giochi Online
+### Online Games
 
 |<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview.png"/>|
 |-------------|-------------|
 |[Fiila Tre Online](https://github.com/vittorioPiotti/FilaTre-Online)|[Bingo Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap)|
 
 
-
-### Giochi Offline
+### Offline Games
 
 |<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview.png"/>| 
 |-------------|
 |[Bingo Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap)|
 
-### Algoritmi
+### Algorithms
 
 |[Dijkstra C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)|[Matrix Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C)|[Battalia Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C)|
 |-------------|-------------|-------------|
