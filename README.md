@@ -18,6 +18,10 @@ I'm open source developer 🧑🏻‍💻
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/php.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/py.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/react.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/sql.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/ts.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/xcode.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/java.png" width="70"> | 
 
+### Projects 🚀
+
+...
+
 
 ### Repositories 🛠️ 
 
@@ -28,9 +32,6 @@ I'm open source developer 🧑🏻‍💻
 |                                                                                                    |                                                                                            |                                                                                          |                                                                                                  | [Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)                     | [Portfolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)                                | [Dijkstra C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)                               |
 
 
-### Projects 🚀
-
-...
 
 
 ---
