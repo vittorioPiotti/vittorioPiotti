@@ -2,8 +2,11 @@
 
 I'm open source developer 🧑🏻‍💻
 
+### Best Projects 😎
 
-### Migliori Repository ⭐
+...
+
+### Best Repositories ⭐
 
 |<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|-------------|
@@ -16,7 +19,7 @@ I'm open source developer 🧑🏻‍💻
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/php.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/py.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/react.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/sql.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/ts.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/xcode.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/java.png" width="70"> | 
 
 
-### Repository 🛠️ 
+### Repositories 🛠️ 
 
 | [Giochi Online](#giochi-online)                                                                                     | [Giochi Offline](#giochi-offline)                                                                              | [Siti Didattici](#siti-didattici)                                                                                | [Software Didattici](#software-didattici)                                                                       | [App](#app)                                                                                              | [Siti Web](#siti-web)                                                                                         | [Algoritmi](#algoritmi)                                                                                     |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
