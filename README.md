@@ -43,7 +43,7 @@ I'm open source developer 🧑🏻‍💻
 |[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
 
 
-### Apps
+### Apps 📱
 
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/socialpreview.png"/>|<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/socialpreview.png"/>|
 |-------------|-------------|-------------|
@@ -51,17 +51,17 @@ I'm open source developer 🧑🏻‍💻
 
 
 
-### Scholar Sites
+### Scholar Sites 📚
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
 |-------------|-------------|
 | [Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
 
-### Commercial Sites
+### Commercial Sites 💼
 
 ...
 
-### Web Sites
+### Web Sites 🌐
 
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview.png"/>|<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview.png"/>|
 |-------------|-------------|-------------|
@@ -69,26 +69,26 @@ I'm open source developer 🧑🏻‍💻
 
 
 
-### Online Games 👾
+### Online Games 🎮 🟢
 
 |<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview.png"/>|
 |-------------|-------------|
 |[Fiila Tre Online](https://github.com/vittorioPiotti/FilaTre-Online)|[Bingo Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap)|
 
 
-### Offline Games 👾
+### Offline Games 🎮 🔴
 
 |<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview.png"/>| 
 |-------------|
 |[Bingo Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap)|
 
-### Algorithms
+### Algorithms 📊
 
 |[Dijkstra C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)|[Matrix Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C)|[Battalia Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C)|
 |-------------|-------------|-------------|
 
 
-### Servers
+### Servers 🗄
 
 ...
 
