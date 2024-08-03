@@ -36,17 +36,11 @@ I'm open source developer 🧑🏻‍💻
 
 ---
 
-### Softwares  
+### Softwares 💻
 
 |<img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/socialpreview.png"/>|
 |-------------|-------------|
 |[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
-
-### Scholar Sites
-
-| <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
-|-------------|-------------|
-| [Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
 
 
 ### Apps
@@ -56,6 +50,17 @@ I'm open source developer 🧑🏻‍💻
 | [Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Calendario](https://github.com/vittorioPiotti/Calendario-React-Native) |[Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)|
 
 
+
+### Scholar Sites
+
+| <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
+|-------------|-------------|
+| [Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
+
+### Commercial Sites
+
+...
+
 ### Web Sites
 
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview.png"/>|<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview.png"/>|
@@ -63,14 +68,15 @@ I'm open source developer 🧑🏻‍💻
 | [Gestione Hotels Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP) |[Gestionale]()|[Portolio](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)|
 
 
-### Online Games
+
+### Online Games 👾
 
 |<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview.png"/>|
 |-------------|-------------|
 |[Fiila Tre Online](https://github.com/vittorioPiotti/FilaTre-Online)|[Bingo Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap)|
 
 
-### Offline Games
+### Offline Games 👾
 
 |<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview.png"/>| 
 |-------------|
