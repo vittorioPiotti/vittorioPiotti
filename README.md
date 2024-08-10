@@ -4,7 +4,10 @@ I'm open source developer 🧑🏻‍💻
 
 ### Masterpiece 🔥
 
-...
+|<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>| 
+|-------------|
+|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Music-Player)|
+
 
 ### Best Repositories ⭐
 
