@@ -58,9 +58,7 @@ I'm open source developer 🧑🏻‍💻
 |-------------|-------------|
 | [Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
 
-### Commercial Sites 
 
-...
 
 ### Web Sites 
 
@@ -89,9 +87,6 @@ I'm open source developer 🧑🏻‍💻
 |-------------|-------------|-------------|
 
 
-### Servers 
-
-...
 
 ---
 
