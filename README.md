@@ -70,9 +70,6 @@ I'm open source developer 🧑🏻‍💻
 | [Gestionale](https://github.com/vittorioPiotti/Gestionale)|[Portolio](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)  | 
 
 
-|| |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview.png"/>|
-|-------------|-------------|-------------|
-| [ |
 
 
 
