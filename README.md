@@ -6,7 +6,7 @@ I'm open source developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>| 
 |-------------|
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Music-Player)|
+|[Music Player](https://github.com/vittorioPiotti/Music-Player)|
 
 
 ### Best Repositories ⭐
