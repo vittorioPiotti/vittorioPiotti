@@ -2,7 +2,7 @@
 
 I'm open source developer 🧑🏻‍💻
 
-This is my portfolio: ([link](https://vittoriopiotti.altervista.org/))
+This is my portfolio: [(link)](https://vittoriopiotti.altervista.org/)
 
 ### Masterpiece 🔥
 
