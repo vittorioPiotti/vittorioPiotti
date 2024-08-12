@@ -63,7 +63,7 @@ I'm open source developer 🧑🏻‍💻
 ### Web Sites 
 
 
-| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>  |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview.png"/>   |
+| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>  |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview80.png"/>   |
 |---|---|
 |[Music Player](https://github.com/vittorioPiotti/Music-Player)   | [Gestione Hotels Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP)  |
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview70.png"/>  |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview3.png"/>  |
