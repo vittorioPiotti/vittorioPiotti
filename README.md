@@ -82,7 +82,7 @@ I'm open source developer 🧑🏻‍💻
 
 ### Offline Games 
 
-|<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview.png"/>| 
+|<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview12.png"/>| 
 |-------------|
 |[Bingo Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap)|
 
