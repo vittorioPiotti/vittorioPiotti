@@ -75,7 +75,7 @@ I'm open source developer 🧑🏻‍💻
 
 ### Online Games 
 
-|<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview3.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview.png"/>|
+|<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview3.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview50.png"/>|
 |-------------|-------------|
 |[Fiila Tre Online](https://github.com/vittorioPiotti/FilaTre-Online)|[Bingo Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap)|
 
