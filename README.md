@@ -94,7 +94,7 @@ I'm open source developer 🧑🏻‍💻
 ### Servers 
 
 |[Gestione Hotels Server ](https://github.com/vittorioPiotti/Gestione-Hotels-Server)|[Music Player Server ](https://github.com/vittorioPiotti/Music-Player-Server)|
-|-------------|-------------|-------------|
+|-------------|-------------|
 
 
 ---
