@@ -91,6 +91,10 @@ I'm open source developer 🧑🏻‍💻
 |[Dijkstra C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)|[Matrix Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C)|[Battalia Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C)|
 |-------------|-------------|-------------|
 
+### Servers 
+
+|[Gestione Hotels Server ](https://github.com/vittorioPiotti/Gestione-Hotels-Server)|[Music Player Server ](https://github.com/vittorioPiotti/Music-Player-Server)|
+|-------------|-------------|-------------|
 
 
 ---
