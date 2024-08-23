@@ -2,6 +2,8 @@
 
 I'm open source developer 🧑🏻‍💻
 
+<img width="300px" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/stats3.png"/>
+
 
 ### Masterpiece 🔥
 
