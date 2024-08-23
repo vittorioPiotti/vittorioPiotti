@@ -4,9 +4,11 @@ I'm open source developer 🧑🏻‍💻
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=donut)](https://github.com/vittoriopiotti/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-six-zeta-91.vercel.app/api/top-langs/?username=vittoriopiotti&layout=donut&langs_count=8&theme=light)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=donut-vertical&langs_count=10)
 
 
 
