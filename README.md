@@ -6,6 +6,8 @@ I'm open source developer 🧑🏻‍💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vittoriopiotti&hide=contribs,prs)
+
 ### Masterpiece 🔥
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>| 
