@@ -4,7 +4,7 @@ I'm open source developer 🧑🏻‍💻
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca&layout=donut-vertical)](https://github.com/luca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=donut-vertical)](https://github.com/vittoriopiotti/github-readme-stats)
 
 
 ### Masterpiece 🔥
