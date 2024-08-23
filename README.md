@@ -2,7 +2,6 @@
 
 I'm open source developer 🧑🏻‍💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vittoriopiotti&hide=contribs,prs)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=compact)
