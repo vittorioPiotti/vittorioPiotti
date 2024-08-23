@@ -2,7 +2,7 @@
 
 I'm open source developer 🧑🏻‍💻
 
-
+<img width="250px" src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/stats2.png"/>
 
 ### Masterpiece 🔥
 
