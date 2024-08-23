@@ -40,7 +40,7 @@ I'm open source developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/socialpreview2.png"/>| 
 |-------------|-------------|-------------|
-|[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|[Fermat And RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)|
+|[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|[Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)|
 
 
 
