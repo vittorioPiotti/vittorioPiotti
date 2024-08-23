@@ -2,7 +2,7 @@
 
 I'm open source developer 🧑🏻‍💻
 
-<img width="350px" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/stats4.png"/>
+<img width="500px" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/stats4.png"/>
 
 
 ### Masterpiece 🔥
