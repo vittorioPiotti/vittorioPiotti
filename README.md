@@ -2,7 +2,6 @@
 
 I'm open source developer 🧑🏻‍💻
 
-<img width="600px" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/stats7.png"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
