@@ -10,6 +10,8 @@ I'm open source developer 🧑🏻‍💻
 ![Top Langs](https://github-readme-stats-six-zeta-91.vercel.app/api/top-langs/?username=vittoriopiotti&layout=donut&langs_count=8&theme=light)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8)
+
 
 
 
