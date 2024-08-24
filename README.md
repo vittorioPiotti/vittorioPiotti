@@ -13,6 +13,7 @@ I'm open source developer 🧑🏻‍💻
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&langs_count=8)
 
 
 
