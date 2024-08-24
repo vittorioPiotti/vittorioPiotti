@@ -8,10 +8,6 @@ I'm open source developer 🧑🏻‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=compact&langs_count=8)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=donut&count=8)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=donut-vertical&count=8)
 
 
 
