@@ -10,7 +10,7 @@ I'm open source developer 🧑🏻‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=compact&langs_count=8)
 
 
-#### Support Me
+### Support Me
 
 [<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
 
