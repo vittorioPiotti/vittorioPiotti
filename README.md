@@ -4,6 +4,7 @@
 
 I'm open source developer 🧑🏻‍💻
 
+![GitHub stars](https://img.shields.io/github/stars/vittoriopiotti/Dijkstra-Bootstrap?style=social)
 
 
 
