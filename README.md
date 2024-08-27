@@ -4,21 +4,8 @@
 
 I'm open source developer 🧑🏻‍💻
 
-![GitHub stars](https://img.shields.io/badge/⭐%20Stars-<COLOR>?style=flat)
 
 
-![GitHub stars](https://badgen.net/github/stars/vittoriopiotti/Dijkstra-Bootstrap)
-
-![GitHub stars](https://img.shields.io/github/stars/vittoriopiotti/Dijkstra-Bootstrap?style=flat&label=%E2%AD%90&color=yellow)
-
-
-![GitHub stars](https://img.shields.io/github/stars/vittoriopiotti/Dijkstra-Bootstrap?style=social&color=yellow&logo=github)
-
-
-![GitHub stars](https://img.shields.io/badge/Stars%20⭐️-yellow)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=compact&langs_count=8)
 
 
 ### Support Me
@@ -36,7 +23,7 @@ I'm open source developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|-------------|
-|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)  |[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
+|[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) ![GitHub stars](https://badgen.net/github/stars/vittoriopiotti/Dijkstra-Bootstrap)  |[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display)|
 
 
 ### Skills 🎓
