@@ -6,7 +6,7 @@ I'm open source developer 🧑🏻‍💻
 
 
 
-![GitHub stars](https://badgen.net/github/stars/vittoriopiotti/Dijkstra-Bootstrap?color=orange)
+![GitHub stars](https://img.shields.io/badge/Stars%20⭐️-yellow)
 
 
 
