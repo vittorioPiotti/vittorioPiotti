@@ -5,15 +5,14 @@
 I'm open source developer 🧑🏻‍💻
 
 
+![GitHub stars](https://badgen.net/github/stars/vittoriopiotti/Dijkstra-Bootstrap)
+
+
 ![GitHub stars](https://img.shields.io/github/stars/vittoriopiotti/Dijkstra-Bootstrap?style=social&color=yellow&logo=github)
 
 
 ![GitHub stars](https://img.shields.io/badge/Stars%20⭐️-yellow)
 
-<a href="https://github.com/vittoriopiotti/Dijkstra-Bootstrap">
-  <img src="https://img.shields.io/github/stars/vittoriopiotti/Dijkstra-Bootstrap?style=social" alt="GitHub stars" />
-  <img src="https://img.icons8.com/material-outlined/24/000000/star.png" alt="Star Icon" />
-</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriopiotti&layout=compact&langs_count=8)
 
