@@ -9,6 +9,8 @@ I'm open source developer 🧑🏻‍💻
 
 ![GitHub stars](https://badgen.net/github/stars/vittoriopiotti/Dijkstra-Bootstrap)
 
+![GitHub stars](https://img.shields.io/github/stars/vittoriopiotti/Dijkstra-Bootstrap?style=flat&label=%E2%AD%90&color=yellow)
+
 
 ![GitHub stars](https://img.shields.io/github/stars/vittoriopiotti/Dijkstra-Bootstrap?style=social&color=yellow&logo=github)
 
