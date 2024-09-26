@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vittorioPiotti)
+![](https://komarev.com/ghpvc/?username=vittorioPiotti&color=gray)
 
 ## Hi there 👋 
 
