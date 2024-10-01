@@ -15,7 +15,7 @@ I'm open source developer 🧑🏻‍💻
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
 
-### Working ON 🤓
+### Working On 🤓
 
 |<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/preview1.png"/>| 
 |-------------|
