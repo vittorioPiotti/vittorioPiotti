@@ -17,7 +17,7 @@ I'm open source developer 🧑🏻‍💻
 
 ### Working On 🤓
 
-|<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/previewtest.png"/>| 
+|<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/preview2.png"/>| 
 |-------------|
 |[SmartGraphUI](https://github.com/vittorioPiotti/SmartGraphUI-ForkBased)|
 
