@@ -15,14 +15,14 @@ I'm open source developer 🧑🏻‍💻
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
 
-### Working On 🤓
+### Working On ᝰ.ᐟ
 
 |<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/preview70.png"/>| 
 |-------------|
 |[SmartGraphUI](https://github.com/vittorioPiotti/SmartGraphUI-ForkBased)|
 
 
-### Masterpiece 😎
+### Masterpiece 🔥
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>| 
 |-------------|
