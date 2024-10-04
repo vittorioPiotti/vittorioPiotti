@@ -73,7 +73,7 @@ I'm open source developer 🧑🏻‍💻
 
 
 
-### Scholar Sites 
+### Web Solvers 
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
 |-------------|-------------|
@@ -94,18 +94,12 @@ I'm open source developer 🧑🏻‍💻
 
 
 
-### Online Games 
+### Games
 
-|<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview3.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview50.png"/>|
-|-------------|-------------|
-|[Fiila Tre Online](https://github.com/vittorioPiotti/FilaTre-Online)|[Bingo Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap)|
+|<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview3.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview50.png"/>|<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview12.png"/>| 
+|-------------|-------------|---|
+|[Fiila Tre Online](https://github.com/vittorioPiotti/FilaTre-Online)|[Bingo Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap)|[Bingo Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap)|
 
-
-### Offline Games 
-
-|<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview12.png"/>| 
-|-------------|
-|[Bingo Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap)|
 
 ### Algorithms 
 
