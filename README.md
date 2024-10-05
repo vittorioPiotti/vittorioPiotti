@@ -51,7 +51,7 @@ I'm open source developer 🧑🏻‍💻
 |       `html`       |        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">        |
 |       `css`        |        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">         |
 |        `c`         |         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="48">          |
-|      `figma`       |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma.svg" width="48">     |
+|      `figma`       |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">     |
 |    `bootstrap`     |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">      |
 |        `cs`        |         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48">         |
 |      `mysql`       |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL.svg" width="48">     |
