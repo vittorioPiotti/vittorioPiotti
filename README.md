@@ -38,26 +38,26 @@ I'm open source developer 🧑🏻‍💻
 
 ### Skills 🎓
 
-| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/bootstrap.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/c.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/css.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/figma.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/html.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/js.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/csh.png" width="70"> |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="70"> |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="70">      |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="70">  |    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="70">   |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/php.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/py.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/react.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/sql.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/ts.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/xcode.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/java.png" width="70"> | 
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="70"> |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="70">  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="70">   | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/ts.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/xcode.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/java.png" width="70"> | 
 
 
 
 
 
-|        `ts`        |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48">     |
-|        `js`        |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">     |
-|       `java`       |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48">      |
-|       `html`       |        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">        |
-|       `css`        |        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">         |
-|        `c`         |         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="48">          |
-|      `figma`       |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">     |
-|    `bootstrap`     |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">      |
-|        `cs`        |         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48">         |
-|      `mysql`       |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48">     |
-|      `react`       |     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">     |
-|        `py`        |    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48">     |
+|        `ts`        |          |
+|        `js`        |         |
+|       `java`       |           |
+|       `html`       |                |
+|       `css`        |                |
+|        `c`         |                |
+|      `figma`       |         |
+|    `bootstrap`     |        |
+|        `cs`        |                |
+|      `mysql`       |        |
+|      `react`       |         |
+|        `py`        |         |
 |       `php`        |      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48">      |
 |      `swift`       |       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" width="48">        |
 
