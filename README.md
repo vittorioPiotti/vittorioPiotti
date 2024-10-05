@@ -40,26 +40,10 @@ I'm open source developer 🧑🏻‍💻
 
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="70"> |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="70">      |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="70">  |    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="70">   |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="70"> |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="70">  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="70">   | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/ts.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/xcode.png" width="70"> | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/java.png" width="70"> | 
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="70"> |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="70">  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="70">   | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/ts.png" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" width="70">   | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="70"> | 
 
 
 
-
-
-|        `ts`        |          |
-|        `js`        |         |
-|       `java`       |           |
-|       `html`       |                |
-|       `css`        |                |
-|        `c`         |                |
-|      `figma`       |         |
-|    `bootstrap`     |        |
-|        `cs`        |                |
-|      `mysql`       |        |
-|      `react`       |         |
-|        `py`        |         |
-|       `php`        |      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48">      |
-|      `swift`       |       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" width="48">        |
 
 
 ### Repositories 🛠️ 
