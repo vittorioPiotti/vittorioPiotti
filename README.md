@@ -44,6 +44,24 @@ I'm open source developer 🧑🏻‍💻
 
 
 
+
+|        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
+|        `js`        |     <img src="./icons/JavaScript.svg" width="48">     |
+|       `java`       |     <img src="./icons/Java.svg" width="48">      |
+|       `html`       |        <img src="./icons/HTML.svg" width="48">        |
+|       `css`        |        <img src="./icons/CSS.svg" width="48">         |
+|        `c`         |         <img src="./icons/C.svg" width="48">          |
+|      `figma`       |     <img src="./icons/Figma.svg" width="48">     |
+|    `bootstrap`     |     <img src="./icons/Bootstrap.svg" width="48">      |
+|        `cs`        |         <img src="./icons/CS.svg" width="48">         |
+|      `mysql`       |     <img src="./icons/MySQL.svg" width="48">     |
+|      `react`       |     <img src="./icons/React.svg" width="48">     |
+|        `py`        |    <img src="./icons/Python.svg" width="48">     |
+|       `php`        |      <img src="./icons/PHP.svg" width="48">      |
+|      `swift`       |       <img src="./icons/Swift.svg" width="48">        |
+
+
+
 ### Repositories 🛠️ 
 
 | [Softwares](#softwares)                                                                                     | [App](#app)                                                                                              | [Web Solvers](#web-solvers)                                                                                | [Web Sites](#web-sites)                                                                                         | [Games](#games)                                                                                     | [Algorithms](#algorithms)                                                                                     | [Servers](#servers)                                                                                     |
