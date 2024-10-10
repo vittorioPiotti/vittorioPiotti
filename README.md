@@ -20,7 +20,7 @@ I'm open source developer 🧑🏻‍💻
 
 ### Working On ᝰ.ᐟ
 
-|<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/preview906.png"/>| 
+|<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/socialpreview24.png"/>| 
 |-------------|
 |[PathGraph](https://github.com/vittorioPiotti/SmartGraphUI-ForkBased)|
 
@@ -69,8 +69,8 @@ I'm open source developer 🧑🏻‍💻
 | <img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/> |<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/socialpreview5.png"/>   |
 |---|---|
 |[Subnetting Java](https://github.com/vittorioPiotti/Subnetting-Java)  | [Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display) |
-|<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/socialpreview2.png"/> |<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/preview903.png"/>  |
-| [Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)|[SmartGraphUI](https://github.com/vittorioPiotti/SmartGraphUI-JavaFX)  | 
+|<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/socialpreview2.png"/> |<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/socialpreview26.png"/>  |
+| [Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)|[PathGraph](https://github.com/vittorioPiotti/SmartGraphUI-JavaFX)  | 
 
 
 
