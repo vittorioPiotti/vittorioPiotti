@@ -22,7 +22,7 @@ I'm open source developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/socialpreview24.png"/>| 
 |-------------|
-|[PathGraph](https://github.com/vittorioPiotti/SmartGraphUI-ForkBased)|
+|[PathGraph](https://github.com/vittorioPiotti/PathGraph-JavaFX)|
 
 
 ### Masterpiece 🔥
