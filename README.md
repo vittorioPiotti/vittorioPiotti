@@ -98,8 +98,10 @@ I'm 21yo open source developer 🧑🏻‍💻
 | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>  |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview80.png"/>   |
 |---|---|
 |[Music Player](https://github.com/vittorioPiotti/Music-Player)   | [Gestione Hotels Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP)  |
-| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview70.png"/>  |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview3.png"/>  |
-| [Gestionale](https://github.com/vittorioPiotti/Gestionale)|[Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)  | 
+
+| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview70.png"/>  |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview3.png"/>  |<img src="https://github.com/vittorioPiotti/Book-Preview/blob/main/github/socialpreview.png?raw=true"/>  |
+|---|---|---|
+| [Gestionale](https://github.com/vittorioPiotti/Gestionale)|[Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)  |[BookPreview](https://github.com/vittorioPiotti/Book-Preview)  | 
 
 
 
