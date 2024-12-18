@@ -20,12 +20,19 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Latest Project ᝰ.ᐟ
 
+|<img src="https://github.com/vittorioPiotti/Book-Preview/blob/main/github/socialpreview.png"/>| 
+|-------------|
+|[BookPreview](https://github.com/vittorioPiotti/Book-Preview)|
+
+
+### Software Masterpiece 🔥 
+
 |<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/socialpreview24.png"/>| 
 |-------------|
 |[PathGraph](https://github.com/vittorioPiotti/PathGraph-JavaFX)|
 
 
-### Masterpiece 🔥
+### Website Masterpiece 🔥
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>| 
 |-------------|
