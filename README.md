@@ -140,7 +140,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Servers 
 
-|[Gestione Hotels Server ](https://github.com/vittorioPiotti/Gestione-Hotels-Server)|[Music Player Server ](https://github.com/vittorioPiotti/Music-Player-Server)|
+|🎓<br>[Gestione Hotels Server ](https://github.com/vittorioPiotti/Gestione-Hotels-Server)|<br>[Music Player Server ](https://github.com/vittorioPiotti/Music-Player-Server)|
 |-------------|-------------|
 
 
