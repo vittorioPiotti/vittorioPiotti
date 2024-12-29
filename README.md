@@ -20,7 +20,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 
 
-> Marker per progetti scolastici: 🎓
+> Progetti scolastici: 🎓
 
 
 
