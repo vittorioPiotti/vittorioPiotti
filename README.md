@@ -40,6 +40,8 @@ I'm 21yo open source developer 🧑🏻‍💻
 |-------------|-------------|-------------|
 |[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) 🎓  |[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App) 🎓 |[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display) 🎓|
 
+> Progetti scolastici: 🎓
+
 
 ### Skills 🎓
 
@@ -61,7 +63,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 | [Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA) 🎓                              |                                                                                         |                                                                                                  |       [Music Player](https://github.com/vittorioPiotti/Music-Player)                                     |                                                                                                    |                                                                                                 | 
 |                            |                                                                                         |                                                                                                  |       [BookPreview](https://github.com/vittorioPiotti/Book-Preview)                                     |                                                                                                    |                                                                                                 |                                                                                      
 
-                                                                                                                                                       
+> Progetti scolastici: 🎓                                                                                                                                                      
 
 
 ---
