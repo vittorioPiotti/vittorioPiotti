@@ -78,9 +78,9 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 | <img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/> |<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/socialpreview5.png"/>   |
 |---|---|
-|🎓[Subnetting&nbsp;Solver<br>Java](https://github.com/vittorioPiotti/Subnetting-Java)  |🎓<br>[Primary&nbsp;Flight<br>Display](https://github.com/vittorioPiotti/Primary-Flight-Display) |
+|<br>[Subnetting&nbsp;Solver<br>Java](https://github.com/vittorioPiotti/Subnetting-Java)  |🎓<br>[Primary&nbsp;Flight<br>Display](https://github.com/vittorioPiotti/Primary-Flight-Display) |
 |<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/socialpreview2.png"/> |<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/socialpreview26.png"/>  |
-|🎓<br>[Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)<br> &#8203;|🎓[PathGraph](https://github.com/vittorioPiotti/SmartGraphUI-JavaFX) <br> &#8203; | 
+|🎓<br>[Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)<br> &#8203;|<br>[PathGraph](https://github.com/vittorioPiotti/SmartGraphUI-JavaFX) <br> &#8203; | 
 
 
 
