@@ -53,7 +53,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 
 
-### Skills 🎓
+### Skills 📚
 
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="70"> |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="70">      |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="70">  |    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="70">   |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
