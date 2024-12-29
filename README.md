@@ -135,7 +135,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Algorithms 
 
-|🎓<br>[Dijkstra&nbsp;C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)<br> &#8203;|🎓<br> [Matrix&nbsp;Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C)       |🎓<br> [Battaglia&nbsp;Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C)|
+|🎓<br>[Dijkstra&nbsp;C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C)|🎓<br> [Matrix&nbsp;Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C)       |🎓<br> [Battaglia&nbsp;Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C)|
 |-------------|-------------|-------------|
 
 ### Servers 
