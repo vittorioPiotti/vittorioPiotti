@@ -80,7 +80,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 |---|---|
 |<br>[Subnetting&nbsp;Solver<br>Java](https://github.com/vittorioPiotti/Subnetting-Java)  |🎓<br>[Primary&nbsp;Flight<br>Display](https://github.com/vittorioPiotti/Primary-Flight-Display) |
 |<img src="https://github.com/vittorioPiotti/Fermat-And-RSA/blob/main/images/socialpreview2.png"/> |<img src="https://github.com/vittorioPiotti/SmartGraphUI-ForkBased/blob/master/github/socialpreview26.png"/>  |
-|🎓<br>[Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)<br> &#8203;|<br>[PathGraph](https://github.com/vittorioPiotti/SmartGraphUI-JavaFX) <br> &#8203; | 
+|🎓<br>[Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)|<br>[PathGraph](https://github.com/vittorioPiotti/SmartGraphUI-JavaFX) | 
 
 
 
@@ -115,7 +115,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview70.png"/>  |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview3.png"/>  |<img src="https://github.com/vittorioPiotti/Book-Preview/blob/main/github/socialpreview.png?raw=true"/>  |
 |---|---|---|
-| 🎓<br> [Gestionale&nbsp;PCTO](https://github.com/vittorioPiotti/Gestionale) <br> &#8203; | <br> [Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)<br> &#8203;   | <br> [BookPreview](https://github.com/vittorioPiotti/Book-Preview) <br> &#8203; | 
+| 🎓<br> [Gestionale&nbsp;PCTO](https://github.com/vittorioPiotti/Gestionale)  | <br> [Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)  | <br> [BookPreview](https://github.com/vittorioPiotti/Book-Preview) | 
 
 
 
