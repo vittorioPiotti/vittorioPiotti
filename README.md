@@ -96,22 +96,26 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Web Solvers 
 
+> Progetti scolastici: 🎓
+
 | <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
 |-------------|-------------|
-| [Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Subnetting Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
+| 🎓<br>  [Dijkstra&nbsp;Solver<br>Web](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | 🎓<br> [Subnetting&nbsp;Solver<br>Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) |
 
 
 
 ### Web Sites 
 
+> Progetti scolastici: 🎓
+
 
 | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>  |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview80.png"/>   |
 |---|---|
-|[Music Player](https://github.com/vittorioPiotti/Music-Player)   | [Gestione Hotels Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP)  |
+| <br>    [Music&nbsp;Player<br>Website](https://github.com/vittorioPiotti/Music-Player)   | 🎓<br> [Gestione&nbsp;Hotels<br>Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP)  |
 
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview70.png"/>  |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview3.png"/>  |<img src="https://github.com/vittorioPiotti/Book-Preview/blob/main/github/socialpreview.png?raw=true"/>  |
 |---|---|---|
-| [Gestionale](https://github.com/vittorioPiotti/Gestionale)|[Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)  |[BookPreview](https://github.com/vittorioPiotti/Book-Preview)  | 
+| 🎓<br> [Gestionale&nbsp;PCTO](https://github.com/vittorioPiotti/Gestionale) <br> &#8203; | <br> [Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)<br> &#8203;   | <br> [BookPreview](https://github.com/vittorioPiotti/Book-Preview) <br> &#8203; | 
 
 
 
