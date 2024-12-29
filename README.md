@@ -18,6 +18,14 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
 
+
+---
+
+> Progetti scolastici: 🎓
+
+
+---
+
 ### Latest Project ᝰ.ᐟ
 
 |<img src="https://github.com/vittorioPiotti/Book-Preview/blob/main/github/socialpreview.png"/>| 
@@ -36,7 +44,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Best Repositories ⭐
 
-> Progetti scolastici: 🎓
+
 
 
 |<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
@@ -57,7 +65,6 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Repositories 🛠️ 
 
-> Progetti scolastici: 🎓
 
 | [Softwares](#softwares)                                                                                     | [App](#app)                                                                                              | [Web Solvers](#web-solvers)                                                                                | [Web Sites](#web-sites)                                                                                         | [Games](#games)                                                                                     | [Algorithms](#algorithms)                                                                                     | [Servers](#servers)                                                                                     |
 |----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -74,7 +81,6 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Softwares 
 
-> Progetti scolastici: 🎓
 
 | <img src="https://github.com/vittorioPiotti/Subnetting-Java/blob/main/screenshots/vlsm.png"/> |<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/socialpreview5.png"/>   |
 |---|---|
@@ -86,7 +92,6 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Apps 
 
-> Progetti scolastici: 🎓
 
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/socialpreview.png"/>|<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/socialpreview2.png"/>|
 |-------------|-------------|-------------|
@@ -96,7 +101,6 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Web Solvers 
 
-> Progetti scolastici: 🎓
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/socialpreview.png"/> |<img src="https://github.com/vittorioPiotti/Subnetting-Bootstrap/blob/main/screenshots/flsm.png"/>| 
 |-------------|-------------|
@@ -106,7 +110,6 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Web Sites 
 
-> Progetti scolastici: 🎓
 
 
 | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png"/>  |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-PHP/blob/main/socialpreview80.png"/>   |
