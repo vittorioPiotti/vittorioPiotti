@@ -86,9 +86,11 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Apps 
 
+> Progetti scolastici: 🎓
+
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/socialpreview.png"/>|<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/socialpreview2.png"/>|
 |-------------|-------------|-------------|
-| [Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|[Calendario](https://github.com/vittorioPiotti/Calendario-React-Native) |[Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)|
+| 🎓<br>[Gestione&nbsp;Hotels<br>App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|<br>[Calendario](https://github.com/vittorioPiotti/Calendario-React-Native)<br> &#8203; |🎓<br>[Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)<br> &#8203;|
 
 
 
