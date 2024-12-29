@@ -130,7 +130,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview3.png"/>| <img src="https://github.com/vittorioPiotti/Bingo-Online-Bootstrap/blob/main/socialpreview50.png"/>|<img src="https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/socialpreview12.png"/>| 
 |-------------|-------------|---|
-|<br> [FilaTre&nbsp;Online](https://github.com/vittorioPiotti/FilaTre-Online) <br> &#8203;|<br> [Bingo&nbsp;Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap) |🎓<br> [Bingo&nbsp;Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap) |
+|<br> [FilaTre&nbsp;Online](https://github.com/vittorioPiotti/FilaTre-Online) |<br> [Bingo&nbsp;Online](https://github.com/vittorioPiotti/Bingo-Online-Bootstrap) |🎓<br> [Bingo&nbsp;Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap) |
 
 
 ### Algorithms 
