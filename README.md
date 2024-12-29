@@ -41,7 +41,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|-------------|
-|🎓<br> [Dijkstra&nbsp;Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)   |🎓<br> [Gestione&nbsp;Hotels&nbsp;App](https://github.com/vittorioPiotti/Gestione-Hotel-App)  |🎓<br> [Primary&nbsp;Flight&nbsp;Display](https://github.com/vittorioPiotti/Primary-Flight-Display) |
+|🎓<br> [Dijkstra<br>Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)   |🎓<br> [Gestione&nbsp;Hotels<br>App](https://github.com/vittorioPiotti/Gestione-Hotel-App)  |🎓<br> [Primary&nbsp;Flight<br>Display](https://github.com/vittorioPiotti/Primary-Flight-Display) |
 
 
 
