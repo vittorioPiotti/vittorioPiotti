@@ -36,11 +36,13 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Best Repositories ⭐
 
+> Progetti scolastici: 🎓
+
+
 |<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|-------------|
 |[Dijkstra Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) 🎓  |[Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App) 🎓 |[Primary Flight Display](https://github.com/vittorioPiotti/Primary-Flight-Display) 🎓|
 
-> Progetti scolastici: 🎓
 
 
 ### Skills 🎓
@@ -55,6 +57,8 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Repositories 🛠️ 
 
+> Progetti scolastici: 🎓
+
 | [Softwares](#softwares)                                                                                     | [App](#app)                                                                                              | [Web Solvers](#web-solvers)                                                                                | [Web Sites](#web-sites)                                                                                         | [Games](#games)                                                                                     | [Algorithms](#algorithms)                                                                                     | [Servers](#servers)                                                                                     |
 |----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [PFD](https://github.com/vittorioPiotti/Primary-Flight-Display) 🎓                              | [Gestione Hotels App](https://github.com/vittorioPiotti/Gestione-Hotel-App) 🎓                      | [Dijkstra Web](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) 🎓                    | [Gestione Hotels Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP) 🎓                      | [FilaTre](https://github.com/vittorioPiotti/FilaTre-Online)                                        | [Battaglia Navale](https://github.com/vittorioPiotti/Battaglia-Navale-C) 🎓                     | [Gestione Hotels Server](https://github.com/vittorioPiotti/Gestione-Hotels-Server) 🎓                     |
@@ -63,7 +67,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 | [Fermat and RSA](https://github.com/vittorioPiotti/Fermat-And-RSA) 🎓                              |                                                                                         |                                                                                                  |       [Music Player](https://github.com/vittorioPiotti/Music-Player)                                     |                                                                                                    |                                                                                                 | 
 |                            |                                                                                         |                                                                                                  |       [BookPreview](https://github.com/vittorioPiotti/Book-Preview)                                     |                                                                                                    |                                                                                                 |                                                                                      
 
-> Progetti scolastici: 🎓                                                                                                                                                      
+                                                                                                                                                    
 
 
 ---
