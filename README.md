@@ -20,7 +20,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 
 
-> Schoolar projects: 🎓
+> School projects: 🎓
 
 
 
