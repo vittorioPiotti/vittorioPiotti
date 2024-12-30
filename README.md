@@ -20,7 +20,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 
 
-> Progetti scolastici: 🎓
+> Schoolar projects: 🎓
 
 
 
@@ -49,7 +49,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/WEB.png"/>| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/APP.png"/>|<img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/PFD.png"/>|
 |-------------|-------------|-------------|
-|🎓<br> [Dijkstra<br>Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)   |🎓<br> [Gestione<br>Hotels&nbsp;App](https://github.com/vittorioPiotti/Gestione-Hotel-App)  |🎓<br> [Primary&nbsp;Flight<br>Display](https://github.com/vittorioPiotti/Primary-Flight-Display) |
+|🎓 · Ⅲ<br> [Dijkstra<br>Bootstrap](https://github.com/vittorioPiotti/Dijkstra-Bootstrap)   |🎓 · Ⅴ<br> [Gestione<br>Hotels&nbsp;App](https://github.com/vittorioPiotti/Gestione-Hotel-App)  |🎓 · Ⅴ<br> [Primary&nbsp;Flight<br>Display](https://github.com/vittorioPiotti/Primary-Flight-Display) |
 
 
 
