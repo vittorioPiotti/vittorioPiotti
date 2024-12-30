@@ -97,7 +97,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 |<img src="https://github.com/vittorioPiotti/Gestione-Hotel-App/blob/main/project/screenshots/socialpreview.png"/>| <img src="https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/socialpreview.png"/>|<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/socialpreview2.png"/>|
 |-------------|-------------|-------------|
-| 🎓 · Ⅴ<br>[Gestione&nbsp;Hotels<br>App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|<br>[Calendario](https://github.com/vittorioPiotti/Calendario-React-Native)<br> &#8203; |🎓 · Ⅴ<br>[Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)<br> &#8203;|
+| 🎓 · Ⅴ<br>[Gestione<br>Hotels&nbsp;App](https://github.com/vittorioPiotti/Gestione-Hotel-App)|<br>[Calendario](https://github.com/vittorioPiotti/Calendario-React-Native)<br> &#8203; |🎓 · Ⅴ<br>[Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)<br> &#8203;|
 
 
 
@@ -120,7 +120,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 | <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview70.png"/>  |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview3.png"/>  |<img src="https://github.com/vittorioPiotti/Book-Preview/blob/main/github/socialpreview.png?raw=true"/>  |
 |---|---|---|
-| 🎓 · Ⅴ<br> [Gestionale&nbsp;PCTO](https://github.com/vittorioPiotti/Gestionale)  | <br> [Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap)  | <br> [BookPreview](https://github.com/vittorioPiotti/Book-Preview) | 
+| 🎓 · Ⅴ<br> [Gestionale<br>PCTO](https://github.com/vittorioPiotti/Gestionale)   | <br> [Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap) <br>&#8203;  | <br> [BookPreview](https://github.com/vittorioPiotti/Book-Preview) <br>&#8203; | 
 
 
 
