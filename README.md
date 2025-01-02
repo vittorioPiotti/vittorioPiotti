@@ -19,8 +19,7 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 
 
-
-> <details>
+<details>
 
 <summary>School projects: 🎓</summary>
 
