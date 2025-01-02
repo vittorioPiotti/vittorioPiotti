@@ -18,17 +18,20 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 
 
+---
 
-> <details>
->
-> <summary>School projects: 🎓</summary>
-> |Ⅲ| Ⅳ|Ⅴ|
-> |-------------|-------------|-------------|
-> |-------------|-------------|-------------|
-> </details>
+<details>
+<summary>School projects: 🎓</summary>
+
+| Ⅲ   | Ⅳ   | Ⅴ   |
+|-----|-----|-----|
+| Item 1 | Item 2 | Item 3 |
+| Item 4 | Item 5 | Item 6 |
+
+</details>
 
 
-
+---
 
 
 ### Latest Project ᝰ.ᐟ
