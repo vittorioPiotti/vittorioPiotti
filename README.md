@@ -23,6 +23,8 @@ I'm 21yo open source developer 🧑🏻‍💻
 <details>
 <summary>School projects: 🎓</summary>
 
+<br>
+
 | Ⅲ   | Ⅳ   | Ⅴ   |
 |-----|-----|-----|
 | [Battle&nbsp;Ship](https://github.com/vittorioPiotti/Battaglia-Navale-C) | [Dijkstra&nbsp;Solver<br>Web](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Fermat&nbsp;and&nbsp;RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)   |
