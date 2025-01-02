@@ -25,12 +25,15 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 | Ⅲ   | Ⅳ   | Ⅴ   |
 |-----|-----|-----|
-| [Battle&nbsp;Ship](https://github.com/vittorioPiotti/Battaglia-Navale-C) | [Dijkstra&nbsp;Solver<br>Web](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Gestione<br>Hotels&nbsp;App](https://github.com/vittorioPiotti/Gestione-Hotel-App)  |
+| [Battle&nbsp;Ship](https://github.com/vittorioPiotti/Battaglia-Navale-C) | [Dijkstra&nbsp;Solver<br>Web](https://github.com/vittorioPiotti/Dijkstra-Bootstrap) | [Fermat&nbsp;and&nbsp;RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)   |
 | [Matrix&nbsp;Calculator](https://github.com/vittorioPiotti/Matrix-Calculator-C) | [Subnetting<br>Solver&nbsp;Web](https://github.com/vittorioPiotti/Subnetting-Bootstrap) | [Primary&nbsp;Flight<br>Display](https://github.com/vittorioPiotti/Primary-Flight-Display)  |
-| [Bingo&nbsp;Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap) | [Dijkstra&nbsp;Solver&nbsp;C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C) | [Gestione&nbsp;Hotels<br>Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP) |
+| [Bingo&nbsp;Offline](https://github.com/vittorioPiotti/Bingo-Bootstrap) | [Dijkstra&nbsp;Solver&nbsp;C](https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C) |  [Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native)  |
 | |  | [Gestionale&nbsp;PCTO](https://github.com/vittorioPiotti/Gestionale) |
-| |  | [Calcolatrice](https://github.com/vittorioPiotti/Calcolatrice-React-Native) |
-| |  | [Fermat&nbsp;and&nbsp;RSA](https://github.com/vittorioPiotti/Fermat-And-RSA)  |
+| |  | [Gestione&nbsp;Hotels<br>Server](https://github.com/vittorioPiotti/Gestione-Hotels-Server)     |
+| |  | [Gestione&nbsp;Hotels<br>Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP) |
+| |  | [Gestione<br>Hotels&nbsp;App](https://github.com/vittorioPiotti/Gestione-Hotel-App)  |
+
+
 
 </details>
 
