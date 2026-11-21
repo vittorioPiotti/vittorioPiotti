@@ -136,8 +136,8 @@ I'm 21yo open source developer 🧑🏻‍💻
 |---|---|
 | <br>    [Music&nbsp;Player<br>Website](https://github.com/vittorioPiotti/Music-Player)   | 🎓 · Ⅴ<br> [Gestione&nbsp;Hotels<br>Web](https://github.com/vittorioPiotti/Gestione-Hotel-PHP)  |
 
-| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview70.png"/>  |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview3.png"/>  |<img src="https://github.com/vittorioPiotti/Book-Preview/blob/main/github/socialpreview.png?raw=true"/>  |
-|---|---|---|
+| <img src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/socialpreview70.png"/>  |<img src="https://raw.githubusercontent.com/vittorioPiotti/Portfolio-Bootstrap/main/socialpreview3.png"/>  |
+|---|---|
 | 🎓 · Ⅴ<br> [Gestionale<br>PCTO](https://github.com/vittorioPiotti/Gestionale)   | <br> [Portolio](https://github.com/vittorioPiotti/Portfolio-Bootstrap) <br>&#8203;  | <br>&#8203; | 
 
 
