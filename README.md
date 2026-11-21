@@ -46,9 +46,9 @@ I'm 21yo open source developer 🧑🏻‍💻
 
 ### Latest Project ᝰ.ᐟ
 
-|<img src="https://github.com/vittorioPiotti/Book-Preview/blob/main/github/socialpreview.png"/>| 
+|<img src=""/>| 
 |-------------|
-|[BookPreview](https://github.com/vittorioPiotti/Book-Preview)|
+|[]()|
 
 
 ### Masterpieces 🔥 
